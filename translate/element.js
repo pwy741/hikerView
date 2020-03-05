@@ -58,9 +58,9 @@
         c._pli = b + '/translate_static/img/loading.gif';
         c._plla = h + '/translate_a/l';
         c._pmi = b + '/translate_static/img/mini_google.png';
-        c._ps =  'https://news.yujianweb.cn/js/translate/translateelement.css';
+        c._ps =  'https://gitee.com/qiusunshine233/hikerView/raw/master/translate/a.css';
         c._puh = 'translate.google.com';
         _loadCss(c._ps);
-        _loadJs('https://news.yujianweb.cn/js/translate/main_zh-CN.js');
+        _loadJs('https://gitee.com/qiusunshine233/hikerView/raw/master/translate/zh-cn.js');
     })();
 })();
