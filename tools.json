@@ -1,0 +1,496 @@
+﻿{
+    "lives": [
+        {
+            "name": "一句",
+            "url": "https://www.iamwawa.cn/shici.html"
+        },
+        {
+            "name": "随时图接口",
+            "url": "https://api.lyiqk.cn"
+        },
+        {
+            "name": "高速免费接口",
+            "url": "https://api.btstu.cn"
+        },
+        {
+            "name": "记仇表情包生成器",
+            "url": "https://jichou.shadiao.app/?from_nmsl"
+        },
+        {
+            "name": "诺基亚短信图片生成器",
+            "url": "https://zzkia.noddl.me:8020/?from=www.shadiao.app"
+        },
+        {
+            "name": "影音网站",
+            "url": "https://www.laolibab.cn/yywz"
+        },
+        {
+            "name": "聚BT",
+            "url": "https://jubt.net/cn/index.html#"
+        },
+        {
+            "name": "Atool在线工具",
+            "url": "http://www.atool.org/"
+        },
+        {
+            "name": "在线工具",
+            "url": "http://tool.oschina.net/"
+        },
+        {
+            "name": "在线工具",
+            "url": "http://tool.chongbuluo.com/"
+        },
+        {
+            "name": "程序员在线工具",
+            "url": "http://www.ofmonkey.com/"
+        },
+        {
+            "name": "1024程序員工具",
+            "url": "https://1024tools.com/"
+        },
+        {
+            "name": "社保工具",
+            "url": "http://shebao.388g.com/"
+        },
+        {
+            "name": "NiceTool好工具",
+            "url": "http://www.nicetool.net/"
+        },
+        {
+            "name": "网页分享工具",
+            "url": "http://sharetext.co/"
+        },
+        {
+            "name": "网页加密分享工具",
+            "url": "https://pasteme.cn/"
+        },
+        {
+            "name": "在线录屏工具",
+            "url": "https://showmore.com/zh/"
+        },
+        {
+            "name": "在线金山打字",
+            "url": "http://www.51dzt.com/test/"
+        },
+        {
+            "name": "在线匿名聊天室",
+            "url": "http://hack.chat/"
+        },
+        {
+            "name": "现实君工具箱",
+            "url": "http://tool.uixsj.cn/"
+        },
+        {
+            "name": "她的工具箱",
+            "url": "http://toolher.com/"
+        },
+        {
+            "name": "Markdown工具",
+            "url": "https://lin-xi.github.io/mark/"
+        },
+        {
+            "name": "可配置生成效率桌面",
+            "url": "https://luffyzh.github.io/generate-effective-desktop/"
+        },
+        {
+            "name": "程序员工具箱",
+            "url": "https://www.toolfk.com/"
+        },
+        {
+            "name": "虚假截图制作工具",
+            "url": "https://fakes.netlify.com"
+        },
+        {
+            "name": "MikuTools工具集合",
+            "url": "https://miku.tools/"
+        },
+        {
+            "name": "现代化实用工具网站",
+            "url": "https://www.boxmoe.tools/"
+        },
+        {
+            "name": "在线截屏网站工具",
+            "url": "https://screendump.techulus.com/"
+        },
+        {
+            "name": "windows在线激活",
+            "url": "https://v0v.bid/"
+        },
+        {
+            "name": "工具123",
+            "url": "http://www.gjw123.com/"
+        },
+        {
+            "name": "精准云工具",
+            "url": "https://jingzhunyun.com/"
+        },
+        {
+            "name": "MikuTools",
+            "url": "https://tools.imiku.me/"
+        },
+        {
+            "name": "标注工具PxCook",
+            "url": "https://www.fancynode.com.cn/pxcook"
+        },
+        {
+            "name": "刘明野的工具箱",
+            "url": "http://lab.liumingye.cn/"
+        },
+        {
+            "name": "独特工具箱",
+            "url": "https://www.dute.org/"
+        },
+        {
+            "name": "在线工具网",
+            "url": "https://www.zxgj.cn/"
+        },
+        {
+            "name": "高手工具",
+            "url": "https://c.p2hp.com/"
+        },
+        {
+            "name": "二级域名分发站",
+            "url": "https://dns.yspen.cn/"
+        },
+        {
+            "name": "User?Agent",
+            "url": "https://yangzw.vip/user-agent/"
+        },
+        {
+            "name": "工具邦",
+            "url": "http://cn.piliapp.com/"
+        },
+        {
+            "name": "五合一收款码",
+            "url": "https://qr.jiaowoy.top/"
+        },
+        {
+            "name": "热铁盒工具箱",
+            "url": "https://rth.tools/"
+        },
+        {
+            "name": "兔二工具",
+            "url": "https://www.tool2.cn/"
+        },
+        {
+            "name": "App886高效应用合集",
+            "url": "https://app886.cn/"
+        },
+        {
+            "name": "开车路程费用计算工具",
+            "url": "http://sunbeat.vicp.cc/car.pl"
+        },
+        {
+            "name": "Tiny?helpers",
+            "url": "https://tiny-helpers.dev/"
+        },
+        {
+            "name": "PickFrom",
+            "url": "https://zh.pickfrom.net/"
+        },
+        {
+            "name": "证件照换底色",
+            "url": "https://www.bgconverter.com/"
+        },
+        {
+            "name": "明星缩写查询",
+            "url": "http://www.iseecs.com/"
+        },
+        {
+            "name": "域名查询",
+            "url": "https://lab.feifanju.com/domain-query/"
+        }
+    ],
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

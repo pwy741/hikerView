@@ -1,0 +1,104 @@
+﻿{
+    "lives": [
+        {
+            "name": "CCTV1综合",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8"
+        },
+        {
+            "name": "CCTV2财经",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8"
+        },
+        {
+            "name": "CCTV3综艺",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8"
+        },
+        {
+            "name": "CCTV4国际",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8"
+        },
+        {
+            "name": "CCTV5体育",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8"
+        },
+        {
+            "name": "CCTV5+体育赛事",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8"
+        },
+        {
+            "name": "CCTV6电影",
+            "url": "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+            "name": "CCTV7军事",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8"
+        },
+        {
+            "name": "CCTV8电视剧",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8"
+        },
+        {
+            "name": "CCTV9纪录",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8"
+        },
+        {
+            "name": "CCTV10科教",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8"
+        },
+        {
+            "name": "CCTV11戏曲",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8"
+        },
+        {
+            "name": "CCTV12社会与法",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8"
+        },
+        {
+            "name": "CCTV13新闻",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8"
+        },
+        {
+            "name": "CCTV14少儿",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8"
+        },
+        {
+            "name": "CCTV15音乐",
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8"
+        },
+        {
+            "name": "CCTV17农业",
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8"
+        },
+        {
+            "name": "CCTV4k",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/003/2000266303.m3u8"
+        },
+        {
+            "name": "CETV1",
+            "url": "http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8"
+        },
+        {
+            "name": "CETV2",
+            "url": "http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8"
+        },
+        {
+            "name": "CETV3",
+            "url": "http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8"
+        },
+        {
+            "name": "CETV4",
+            "url": "http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8"
+        },
+        {
+            "name": "CCTV老故事",
+            "url": "http://183.207.248.71/gitv/live1/G_LAOGUSHI/G_LAOGUSHI"
+        },
+        {
+            "name": "CCTV美洲",
+            "url": "https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8"
+        },
+        {
+            "name": "CCTV欧洲",
+            "url": "https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8"
+        }
+    ],
+}
