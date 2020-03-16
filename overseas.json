@@ -1,0 +1,322 @@
+﻿{
+    "lives": [
+        {
+            "name": "SEA TV",
+            "url": "http://203.189.147.211:1935/live/mp4:myStream_720p/playlist.m3u8"
+        },
+        {
+            "name": "Company TV(US|MUSIC)",
+            "url": "http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8"
+        },
+        {
+            "name": "Steelbird Music",
+            "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"
+        },
+        {
+            "name": "FASHION TV",
+            "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
+        },
+        {
+            "name": "新马 I 新传媒 8",
+            "url": "http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8"
+        },
+        {
+            "name": "日本 I 全天新闻",
+            "url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+        },
+        {
+            "name": "新马 I 朝阳频道",
+            "url": "http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8"
+        },
+        {
+            "name": "韩国 I 朝鲜中央台",
+            "url": "http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8"
+        },
+        {
+            "name": "印度 I 音乐电视台",
+            "url": "http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8"
+        },
+        {
+            "name": "韩国 I UBC SBS",
+            "url": "http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8"
+        },
+        {
+            "name": "泰国 I NBT 曼谷频道",
+            "url": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
+        },
+        {
+            "name": "韩国 I KTV 韩国电视",
+            "url": "http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8"
+        },
+        {
+            "name": "韩国 I EBS 儿童频道",
+            "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8"
+        },
+        {
+            "name": "韩国 I YTN 联合新闻",
+            "url": "http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b2592000.m3u8"
+        },
+        {
+            "name": "蒙古国 I MNB",
+            "url": "http://103.14.38.107:1935/live/mnb.stream/master.m3u8"
+        },
+        {
+            "name": "阿联酋 I ATV 1",
+            "url": "http://85.132.81.184:8080/atv/index.m3u8"
+        },
+        {
+            "name": "阿联酋 I ATV 2",
+            "url": "http://85.132.81.184:8080/atv-2/index.m3u8"
+        },
+        {
+            "name": "阿联酋 I ATV 4",
+            "url": "http://85.132.81.184:8080/atv-4/index.m3u8"
+        },
+        {
+            "name": "卡塔尔 I 半岛新闻",
+            "url": "http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8"
+        },
+        {
+            "name": "卡塔尔 I 卡斯体育",
+            "url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3"
+        },
+        {
+            "name": "阿联酋 I 星空电影",
+            "url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8"
+        },
+        {
+            "name": "阿联酋 I 迪拜萨马",
+            "url": "http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8"
+        },
+        {
+            "name": "美国 | 狗狗宠物",
+            "url": "http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
+        },
+        {
+            "name": "德国 I 超级游艇",
+            "url": "http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8"
+        },
+        {
+            "name": "法国 | 法国时尚",
+            "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8"
+        },
+        {
+            "name": "美国 I FOX 体育新闻",
+            "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+        },
+        {
+            "name": "法国 I 巴黎调频",
+            "url": "http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8"
+        },
+        {
+            "name": "法国 I 热带音乐",
+            "url": "http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8"
+        },
+        {
+            "name": "美国 I 美国之音",
+            "url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8"
+        },
+        {
+            "name": "美国 I 美国中央台",
+            "url": "http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8"
+        },
+        {
+            "name": "美国 I 布兰奇电视",
+            "url": "http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8"
+        },
+        {
+            "name": "美国 I 中国环球 (美国)",
+            "url": "http://live.cgtn.com/1000/prog_index.m3u8"
+        },
+        {
+            "name": "法国 I 中国环球 (法国)",
+            "url": "http://live.cgtn.com/1000f/prog_index.m3u8"
+        },
+        {
+            "name": "法国 I 法国24台 (英语)",
+            "url": "http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8"
+        },
+        {
+            "name": "法国 I 法国24台 (法语)",
+            "url": "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8"
+        },
+        {
+            "name": "俄罗斯 I FM 音乐频道",
+            "url": "http://rtmp.one.by:1200"
+        },
+        {
+            "name": "俄罗斯 I OR 音乐频道",
+            "url": "http://rtmp.one.by:2200/"
+        },
+        {
+            "name": "俄罗斯 I HP 音乐频道",
+            "url": "http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8"
+        },
+        {
+            "name": "俄罗斯 I RU 音乐频道",
+            "url": "http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8"
+        },
+        {
+            "name": "乌克兰 I M2 音乐频道",
+            "url": "http://live.m2.tv/hls3/stream.m3u8"
+        },
+        {
+            "name": "意大利 I V2 音乐频道",
+            "url": "http://de1se01.v2beat.live/playlist.m3u8"
+        },
+        {
+            "name": "俄罗斯 I HD 时尚频道",
+            "url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
+        },
+        {
+            "name": "俄罗斯 I 军事频道",
+            "url": "http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8"
+        },
+        {
+            "name": "俄罗斯 I 中国环球 (俄罗斯)",
+            "url": "http://live.cgtn.com/1000r/prog_index.m3u8"
+        },
+        {
+            "name": "西班牙 I 中国环球 (西班牙)",
+            "url": "http://livees.cgtn.com/1000e/prog_index.m3u8"
+        },
+        {
+            "name": "阿拉伯 I 中国环球 (阿拉伯)",
+            "url": "http://live.cgtn.com/1000a/prog_index.m3u8"
+        },
+        {
+            "name": "俄罗斯 I 俄罗斯一台",
+            "url": "http://a787201928-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8"
+        },
+        {
+            "name": "西班牙 I 神性电视台",
+            "url": "https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8"
+        },
+        {
+            "name": "意大利 I Rai 吞咽",
+            "url": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8"
+        },
+        {
+            "name": "意大利 I Rai 幼幼",
+            "url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8"
+        },
+        {
+            "name": "意大利 I Rai 电影",
+            "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
+        },
+        {
+            "name": "意大利 I Rai 溢价",
+            "url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8"
+        }
+    ],
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
