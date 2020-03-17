@@ -1,4 +1,6 @@
-version:1
+version:2
 m.bxwxorg.com::#cambrian0 div[class*='_']@@div[id*='_']@@body&&div,8&&div,0&&div,0&&div,0&&a,0&&img,0@@body&&.tui,1@@body&&div,12&&div,0&&a,0@@body&&div,12&&a,2@@body&&.tui,0
 www.owllook.net::body&&.footer,0@@body&&.navbar,0&&.container-fluid,0&&.login,0
 www.nfmovies.com::body&&.hy-layout
+www.duboku.net::.myui-panel-bg,1
+m.fenggoudy.com::body&&img
