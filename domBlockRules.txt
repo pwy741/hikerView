@@ -4,3 +4,4 @@ www.owllook.net::body&&.footer,0@@body&&.navbar,0&&.container-fluid,0&&.login,0
 www.nfmovies.com::body&&.hy-layout
 www.duboku.net::.myui-panel-bg,1
 m.fenggoudy.com::body&&img
+ddrk.me::#post-8018&&.post-content&&.entry&&a&&img@@body&&.afc_popup,0@@#obay_hf&&a,0
