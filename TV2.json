@@ -1,0 +1,320 @@
+{
+    "lives": [
+        {
+            "name": "音乐HD",
+            "url": "http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8"
+        },
+        {
+            "name": "脱衣频道",
+            "url": "http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8"
+        },
+        {
+            "name": "凤凰资讯蓝光",
+            "url": "http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid88888888&from30&hms_devid1452"
+        },
+        {
+            "name": "凤凰资讯HD",
+            "url": "http://117.169.120.138:8080/live/fhzixun/.m3u8"
+        },
+        {
+            "name": "凤凰中文台HD",
+            "url": "http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8"
+        },
+        {
+            "name": "SNH48",
+            "url": "http://47.240.60.73/migu.php?id=617432328"
+        },
+        {
+            "name": "凤凰香港台HD",
+            "url": "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?"
+        },
+        {
+            "name": "凤凰香港台",
+            "url": "http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=0738ce47619ffb6578bb658b7d7927d3&txTime=16f9470cacc"
+        },
+        {
+            "name": "香港HKSHD",
+            "url": "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
+        },
+        {
+            "name": "莲花卫视",
+            "url": "http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8"
+        },
+        {
+            "name": "亚旅卫视",
+            "url": "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8"
+        },
+        {
+            "name": "凤凰卫视电影台",
+            "url": "https://116.77.72.195/streams/d/fhdy/playlist.m3u8"
+        },
+        {
+            "name": "星河",
+            "url": "https://116.77.72.195/streams/d/tvbxh/playlist.m3u8"
+        },
+        {
+            "name": "星空",
+            "url": "https://116.77.72.195/streams/d/xkws/playlist.m3u8"
+        },
+        {
+            "name": "非凡新闻",
+            "url": "http://pull.scphsd.com/live/a89739d997afda15598b849ad332b5c1/playlist.m3u8"
+        },
+        {
+            "name": "大爱 I",
+            "url": "http://tv1.wanfudaluye.com/live/live.m3u8"
+        },
+        {
+            "name": "超级蓝光电影",
+            "url": "http://39.134.135.26/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?icpid=88888888&from=4&ocs=2_39.134.135.26_80&popid=4&hms_devid=2343&prioritypopid=4&vqe=3"
+        },
+        {
+            "name": "大爱 II",
+            "url": "https://tv2.wanfudaluye.com/live/live.m3u8"
+        },
+        {
+            "name": "蓝光电影",
+            "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "name": "蓝光综艺",
+            "url": "http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8"
+        },
+        {
+            "name": "蓝光体育",
+            "url": "http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8"
+        },
+        {
+            "name": "中国功夫蓝光",
+            "url": "http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8"
+        },
+        {
+            "name": "大爱 海外",
+            "url": "https://tv3.wanfudaluye.com/live/live.m3u8"
+        },
+        {
+            "name": "好菜坞大片",
+            "url": "http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8"
+        },
+        {
+            "name": "音乐选秀2",
+            "url": "http://112.17.40.145/PLTV/88888888/224/3221226479/index.m3u8"
+        },
+        {
+            "name": "动物世界",
+            "url": "http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8"
+        },
+        {
+            "name": "中央综合①蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8"
+        },
+        {
+            "name": "中央财经②蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8"
+        },
+        {
+            "name": "综艺③蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8"
+        },
+        {
+            "name": "国际④蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8"
+        },
+        {
+            "name": "体育⑤蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8"
+        },
+        {
+            "name": "赛亊5+蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8"
+        },
+        {
+            "name": "电影⑥蓝光",
+            "url": "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8"
+        },
+        {
+            "name": "军事⑦蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8"
+        },
+        {
+            "name": "电视剧⑧蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8"
+        },
+        {
+            "name": "记录⑨蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8"
+        },
+        {
+            "name": "科教1⑩蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8"
+        },
+        {
+            "name": "戏曲⑪蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8"
+        },
+        {
+            "name": "社会⑫蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8"
+        },
+        {
+            "name": "新闻⑬蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8"
+        },
+        {
+            "name": "少儿⑭蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8"
+        },
+        {
+            "name": "音乐⑮蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8"
+        },
+        {
+            "name": "中央农业⑰蓝光",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8"
+        },
+        {
+            "name": "中央4k卫视",
+            "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8"
+        },
+        {
+            "name": "湖南蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8"
+        },
+        {
+            "name": "东方蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8"
+        },
+        {
+            "name": "黑龙江蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8"
+        },
+        {
+            "name": "广东蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8"
+        },
+        {
+            "name": "深圳蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8"
+        },
+        {
+            "name": "江苏蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8"
+        },
+        {
+            "name": "浙江蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8"
+        },
+        {
+            "name": "北京蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8"
+        },
+        {
+            "name": "海南蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8"
+        },
+        {
+            "name": "山东蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8"
+        },
+        {
+            "name": "江西蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8"
+        },
+        {
+            "name": "湖北蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8"
+        },
+        {
+            "name": "河南蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8"
+        },
+        {
+            "name": "河北蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8"
+        },
+        {
+            "name": "贵州蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8"
+        },
+        {
+            "name": "东南蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8"
+        },
+        {
+            "name": "广西蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8"
+        },
+        {
+            "name": "四川蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8"
+        },
+        {
+            "name": "辽宁蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8"
+        },
+        {
+            "name": "重庆蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8"
+        },
+        {
+            "name": "安徽蓝光卫视",
+            "url": "https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8"
+        },
+        {
+            "name": "厦门蓝光卫视",
+            "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8"
+        },
+        {
+            "name": "吉林蓝光卫视",
+            "url": "http://39.135.15.70:6610/PLTV/88888888/224/3221225753/1/1000.m3u8"
+        },
+        {
+            "name": "青海卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8"
+        },
+        {
+            "name": "山西卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8"
+        },
+        {
+            "name": "云南卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8"
+        },
+        {
+            "name": "陕西卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8"
+        },
+        {
+            "name": "宁夏卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8"
+        },
+        {
+            "name": "内蒙卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8"
+        },
+        {
+            "name": "新疆卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8"
+        },
+        {
+            "name": "西藏卫视高清",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8"
+        },
+        {
+            "name": "珠江卫视高清",
+            "url": "http://nclive.grtn.cn/zjpd/sd/live.m3u8"
+        },
+        {
+            "name": "中国教育",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8"
+        },
+        {
+            "name": "兵团卫视",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229046/index.m3u8"
+        },
+        {
+            "name": "甘肃卫视",
+            "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8"
+        }
+    ],
+}
