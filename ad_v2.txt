@@ -226,3 +226,5 @@ cdn.liangma.cc@domain=meijuxia.vip
 jiuyuntian3.cn
 www.56yk.com
 js.lmggdka.cn:12443
+www.vivituii.com@domain=m.tv5box.com
+lpjxzs.com@domain=m.tv5box.com
