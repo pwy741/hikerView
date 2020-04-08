@@ -59,7 +59,7 @@
       }
 
 
-    await addJs("https://greasyfork.org/scripts/395849-%E7%9F%A5%E4%B9%8E%E6%89%8B%E6%9C%BA%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96/code/%E7%9F%A5%E4%B9%8E%E6%89%8B%E6%9C%BA%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96.user.js");
+    await addJs("https://gitee.com/qiusunshine233/hikerView/raw/master/userscript/greasyfork/%E7%9F%A5%E4%B9%8E%E6%89%8B%E6%9C%BA%E9%A1%B5%E9%9D%A2%E4%BC%98%E5%8C%96.user.js");
 
     }
   } catch (error) {
