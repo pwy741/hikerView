@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>
+            舞动的风 的 WeRss 公众号订阅列表 [https://werss.app]
+        </title>
+        <dateCreated>
+            Fri, 10 Apr 2020 04:16:37 GMT
+        </dateCreated>
+        <ownerName>
+            舞动的风
+        </ownerName>
+    </head>
+    <body>
+        <outline text="公众号「参考消息」" title="公众号「参考消息」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/dd4d6970-3c70-40ce-a813-140259d0d712.xml" htmlUrl="https://werss.app?name=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF"/>
+        <outline text="公众号「观察者网」" title="公众号「观察者网」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/2154deb3-23a3-4797-833b-b2f675e67703.xml" htmlUrl="https://werss.app?name=%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91"/>
+        <outline text="公众号「人民日报」" title="公众号「人民日报」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/68423abc-b461-424e-9bf0-21c6ae7c96b6.xml" htmlUrl="https://werss.app?name=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5"/>
+        <outline text="公众号「环球时报」" title="公众号「环球时报」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/e29a2815-7211-4b57-97a7-7329bb7917d3.xml" htmlUrl="https://werss.app?name=%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5"/>
+        <outline text="公众号「央视新闻」" title="公众号「央视新闻」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/a0baa5df-30dc-4a20-bf13-fc37f794bccf.xml" htmlUrl="https://werss.app?name=%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB"/>
+        <outline text="公众号「新方圆小棉袄」" title="公众号「新方圆小棉袄」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/45417e36-d0ac-48ec-8c22-36764d2945a4.xml" htmlUrl="https://werss.app?name=%E6%96%B0%E6%96%B9%E5%9C%86%E5%B0%8F%E6%A3%89%E8%A2%84"/>
+        <outline text="公众号「少数派」" title="公众号「少数派」" type="rss" xmlUrl="https://cdn.werss.weapp.design/api/v1/feeds/a21a59eb-80e9-4d20-85f5-1db8e95bf813.xml" htmlUrl="https://werss.app?name=%E5%B0%91%E6%95%B0%E6%B4%BE"/>
+    </body>
+</opml>
