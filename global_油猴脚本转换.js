@@ -1,15 +1,9 @@
-const VERSION = '20.4.6';
+const VERSION = '20.4.10';
 const DEBUG = false;
 const isTop = window.top === window.self;
 const isNotTop = !isTop;
 const PLUGIN_ATTR = 'userscript';
 const PLUGIN_NAME = 'hiker';
-
-const HTML = document.getElementsByTagName('html')[0];
-
-if (HTML.getAttribute(PLUGIN_ATTR) === PLUGIN_NAME) return;
-
-HTML.setAttribute(PLUGIN_ATTR, PLUGIN_NAME);
 
 let Href = location.href;
 
@@ -17,7 +11,7 @@ function log(...args) {
   if (!DEBUG) return;
 
   const message =
-    `🎥 ${new Date().toISOString().replace(/.+T|\..+/g, '')} › ` +
+    `${new Date().toISOString().replace(/.+T|\..+/g, '')} › ` +
     args.map((v) => (typeof v === 'object' ? JSON.stringify(v) : v)).join(' ');
 
   console.log(
@@ -137,11 +131,13 @@ async function go() {
   const $ = jQuery.noConflict(true);
 
   $(function () {
-    if ($('.install-link').length > 1) return;
+    log('.install-link:', $('.install-link.is-hiker').length);
 
-    $('.install-link').addClass('hiker--hide');
+    if ($('.install-link.is-hiker').length > 1) return;
 
-    $('#main-header h1 a').append(`<span>海阔视界</span>`);
+    $('#site-name-text a').html(
+      `Greasy Fork<span>海阔视界 · 油猴转换 v${VERSION}</span>`
+    );
 
     // fork: [e8a9a09](https://github.com/dankogai/js-base64/blob/master/base64.js)
     function setBase64(global = window) {
@@ -337,24 +333,24 @@ async function go() {
       };
     }
 
-    async function install() {
-      const installUrl = $('.install-link')
-        .last()
-        .attr('href')
-        .replace(/^\/([^\/])/, 'https://greasyfork.org/$1');
+    async function install(isOffline, cb) {
+      const installUrl = Href.replace(
+        /.+scripts\/(\d+-)([^\/]+).*/,
+        'https://greasyfork.org/scripts/$1$2/code/$2.user.js'
+      );
 
       log('install:', installUrl);
 
       const code = await fetchUrl(installUrl);
 
-      const CODE = `(async function () {
+      const TEMPLATE = `(async function () {
   try {
-    console.log('loaded: NAME');
     // VERSION
     // EXCLUDE
     if (EXCLUDE && EXCLUDE.test(location.href)) return;
     // MATCH
     if (MATCH.test(location.href)) {
+      console.log('match: NAME');
       function addCss(styles) {
         let css;
 
@@ -386,14 +382,12 @@ async function go() {
           window.localStorage.removeItem(storePrefix + key);
         },
       };
-      function addJs(url) {
-        const unsafeWindow = window;
-        const GM_addStyle = addCss;
-        const GM_getValue = Store.get;
-        const GM_setValue = Store.set;
-        const GM_deleteValue = Store.remove;
-        eval(request(url));
-      }
+
+      const unsafeWindow = window;
+      const GM_addStyle = addCss;
+      const GM_getValue = Store.get;
+      const GM_setValue = Store.set;
+      const GM_deleteValue = Store.remove;
 
       // CODE
     }
@@ -404,26 +398,29 @@ async function go() {
 `;
 
       function parseMeta(metaString) {
-        log(metaString);
+        log('parseMeta - metaString:', metaString);
 
         const meta = {};
         metaString
           .trim()
           .split(/[\s\n]*\n[\s\n]*/)
           .forEach((v) => {
-            const [raw, key, value] = v.match(/\/\/\s*@(\S+)\s+(.+)/);
+            const matches = v.match(/\/\/\s*@(\S+)\s+(.+)/);
+            if (!matches) return;
+            const key = matches[1];
+            const value = matches[2];
             if (!meta[key]) {
               meta[key] = [];
             }
             meta[key].push(value.trim());
           });
 
-        log(meta);
+        log('parseMeta - meta:', meta);
 
         return meta;
       }
 
-      function getUsCode(url, meta) {
+      function getUsCode(meta, url) {
         function toRegex(s) {
           return new RegExp(
             s.replace(/\*/g, '(.*?)').replace(/\//g, '\\/'),
@@ -453,33 +450,40 @@ async function go() {
         log('MATCH:', MATCH);
 
         let requireCode = '';
+        const newline = '\n      ';
 
         if (meta.require) {
           requireCode = meta.require
-            .map((v) => `    await addJs("${v}");`)
-            .join('\n');
+            .map((v) => `eval(request("${v}"));`)
+            .join(newline);
         }
 
-        return CODE.replace('NAME', meta.name[0])
+        const code = url.startsWith('http')
+          ? `eval(request("${url}"));`
+          : `eval(decodeURIComponent("${encodeURIComponent(url)}"));`;
+
+        return TEMPLATE.replace('NAME', meta.name[0])
           .replace(/\/\/ EXCLUDE/, `const EXCLUDE = ${EXCLUDE || '""'};`)
           .replace(/\/\/ VERSION/, `const VERSION = "${VERSION}";`)
           .replace(/\/\/ MATCH/, `const MATCH = ${MATCH};`)
           .replace(
-            / *\/\/ CODE/,
-            `${requireCode}
-    await addJs("${url}");
+            /\/\/ CODE/,
+            `${requireCode}${requireCode ? newline : ''}${code}
 `
           );
       }
 
-      const metaString = code.match(
-        /\/\/\s*==\s*UserScript\s*==\n*([\s\S\n]+?)\n*\/\/\s*==\s*\/UserScript\s*==/
-      )[1];
+      const matches = code.match(
+        /\/\/\s*==\s*UserScript\s*==\n*([\s\S\n]+?)\n*\/\/\s*==\s*\/UserScript\s*==\n*([\s\S]+)/
+      );
+
+      const metaString = matches[1];
+      const codeString = matches[2];
       const meta = parseMeta(metaString);
-      const usName = meta.name[0];
+      const usName = meta.name && meta.name[0];
       log('name:', usName);
 
-      let usCode = getUsCode(installUrl, meta);
+      let usCode = getUsCode(meta, isOffline ? codeString : installUrl);
       usCode = `// ==UserScript==
 ${metaString}
 // ==/UserScript==
@@ -501,15 +505,31 @@ ${usCode}`;
       log(rule.slice(0, 100) + '...' + rule.slice(-100));
 
       fy_bridge_app.importRule(rule);
+
+      cb();
     }
 
-    $('#install-area').prepend(`<a class="install-link">安装脚本</a>`);
+    $('#install-area').html(
+      `<a class="install-link is-hiker is-offline">安装（本地版）</a>
+      <span></span>
+      <a class="install-link is-hiker is-online">安装（网络版）</a>
+      <a class="install-help-link" title="如何安装" rel="nofollow" href="/zh-CN/help/installing-user-scripts">?</a><p class="install-hint"><strong>网络版</strong> 会每次加载当前脚本在油猴网站上的最新版代码，加载速度取决于你访问油猴网站的网络速度。</p>`
+    );
 
     $('.install-link')
       .off('click')
       .on('click', function (e) {
         e.preventDefault();
-        install();
+        $('#install-area').addClass('is-installing');
+        const $this = $(this);
+        $this.addClass('is-active').html('正在安装...');
+
+        install($this.hasClass('is-offline'), function () {
+          $this
+            .addClass('is-success')
+            .removeClass('is-installing')
+            .html('安装成功 ✔');
+        });
       });
   });
 }
@@ -524,24 +544,75 @@ function ready(fn) {
 
 if (isTop && Is(/greasyfork.org\/.*scripts\/\d/)) {
   addCss(`
-.install-link + .install-link,
 .hiker--hide {${PurifyStyle}}
+
+#site-name > a {
+  display: none !important;
+}
 
 #main-header h1 {
   font-size: 1.5em;
   letter-spacing: 0px;
 }
 
-#main-header h1 span {
-  font-size: .5em;
-  letter-spacing: 1px;
-  margin-left: 1em;
+#site-name-text a {
+  font-size: 20px;
+  letter-spacing: 0;
+}
+
+#site-name-text span {
+  font-size: 12px;
+  letter-spacing: 0;
   color: #FFC107;
+  position: absolute;
+  right: 1em;
+  top: 1em;
 }
 
 #script-info header h2 {
   font-size: 1.2em;
   margin-bottom: .5em;
+}
+
+#install-area {
+  font-size: 14px;
+}
+
+#install-area a {
+  border-radius: 2px;
+}
+
+.install-link {
+  margin-right: .5em;
+  padding: 5px 10px;
+}
+
+.install-link.is-offline {
+  background-color: #1971c2 !important;
+}
+
+.install-link.is-online {
+  background-color: #7950f2 !important;
+}
+
+#install-area.is-installing .install-link {
+  pointer-events: none;
+}
+
+.install-link.is-active {
+  background-color: #d9480f !important;
+}
+
+.install-link.is-success {
+  background-color: #2b8a3e !important;
+}
+
+.install-hint {
+  font-size: 13px;
+  color: #FF5722;
+  padding: 5px;
+  border-top: 1px dotted #FF5722;
+  border-bottom: 1px dotted #FF5722;
 }
 `);
 
@@ -551,7 +622,3 @@ if (isTop && Is(/greasyfork.org\/.*scripts\/\d/)) {
     console.error('油猴脚本转换错误：', error);
   }
 }
-
-setTimeout(function () {
-  HTML.removeAttribute(PLUGIN_ATTR);
-}, 1500);
