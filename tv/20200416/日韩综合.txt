@@ -1,0 +1,24 @@
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK 华语視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+North Korea TV ,https://tv.nknews.org/tvhls/stream.m3u8
+tVN Asia,https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
+WakuWaku Japan,https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
+MBC,http://211.54.140.36/hdmi
+YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+ArteTV,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+이데일리TV,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+OBS W,http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
+머니투데이방송,http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
+KCTV HD,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+TBS,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+UBC,http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+TBC,http://221.157.125.239:1935/live/psike/playlist.m3u8
+CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
