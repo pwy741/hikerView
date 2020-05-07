@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",CCTV1
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV2
+http://117.169.120.160:8080/live/cctv-2/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5+
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV6
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV9
+http://39.135.135.54/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",CCTV11
+http://39.135.32.28:6610/000000001000/6351457414282570521/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 group-title="未分组",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV13
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV14
+http://111.40.205.70/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV17
+http://39.135.135.54/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",江苏卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",浙江卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",安徽卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",北京卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",天津卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",辽宁卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",江西卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",黑龙江卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",山东卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",广东卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",深圳卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",湖北卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",东南卫视HD
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",吉林卫视HD
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1 group-title="未分组",厦门卫视HD
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
+#EXTINF:-1 group-title="未分组",四川卫视HD
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/1.m3u8
+#EXTINF:-1 group-title="未分组",海峡卫视HD
+http://player.200877926.top/1786/fj/fjtvm3u8.php?id=3
+#EXTINF:-1 group-title="未分组",重庆卫视HD
+https://onsitecdn.cbgcloud.com/76btqk/d6tb4v.m3u8
+#EXTINF:-1 group-title="未分组",河北卫视HD
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1 group-title="未分组",云南卫视
+http://111.40.205.70/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="未分组",贵州卫视
+http://111.40.205.70/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="未分组",四川康巴卫视
+http://111.40.205.70/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="未分组",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="未分组",青海卫视
+http://111.40.205.70/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="未分组",山西卫视
+http://111.40.205.70/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="未分组",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="未分组",陕西卫视
+http://111.40.205.70/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="未分组",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="未分组",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="未分组",河南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",新疆卫视
+http://111.40.205.70/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="未分组",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="未分组",兵团卫视
+http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="未分组",南方卫视
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 group-title="未分组",西藏卫视
+http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
