@@ -1,191 +1,189 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1 HD
+#EXTINF:-1 group-title="未分类",CCTV-1 HD
 http://cbnlive.cbchot.com/live/yt_cctv1_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-2 HD
+#EXTINF:-1 group-title="未分类",CCTV-2 HD
 http://cbnlive.cbchot.com/live/yt_cctv2_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-3 HD
+#EXTINF:-1 group-title="未分类",CCTV-3 HD
 http://cbnlive.cbchot.com/live/yt_cctv3_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-4 HD
+#EXTINF:-1 group-title="未分类",CCTV-4 HD
 http://cbnlive.cbchot.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-5 HD
+#EXTINF:-1 group-title="未分类",CCTV-5 HD
 http://cbnlive.cbchot.com/live/ty_cctv5_h_1.m3u8?123
-#EXTINF:-1 ,CCTV5+ HD
+#EXTINF:-1 group-title="未分类",CCTV5+ HD
 http://cbnlive.cbchot.com/live/ty_cctv5+_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-6 HD
+#EXTINF:-1 group-title="未分类",CCTV-6 HD
 http://cbnlive.cbchot.com/live/yt_cctv6_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-7 HD
+#EXTINF:-1 group-title="未分类",CCTV-7 HD
 http://cbnlive.cbchot.com/live/yt_cctv7_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-8 HD
+#EXTINF:-1 group-title="未分类",CCTV-8 HD
 http://cbnlive.cbchot.com/live/ty_cctv8_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-9 HD
+#EXTINF:-1 group-title="未分类",CCTV-9 HD
 http://cbnlive.cbchot.com/live/yt_cctv9_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-10 HD
+#EXTINF:-1 group-title="未分类",CCTV-10 HD
 http://cbnlive.cbchot.com/live/yt_cctv10_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-12 HD
+#EXTINF:-1 group-title="未分类",CCTV-12 HD
 http://cbnlive.cbchot.com/live/yt_cctv12_h_1.m3u8?123
-#EXTINF:-1 ,CCTV-14 HD
+#EXTINF:-1 group-title="未分类",CCTV-14 HD
 http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
-#EXTINF:-1 ,4K导视频道
+#EXTINF:-1 group-title="未分类",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8?123
-#EXTINF:-1 ,CCTV专区1
+#EXTINF:-1 group-title="未分类",CCTV专区1
 http://cbnlive.cbchot.com/live/yszq1_1.m3u8?123
-#EXTINF:-1 ,CCTV专区2
+#EXTINF:-1 group-title="未分类",CCTV专区2
 http://cbnlive.cbchot.com/live/yszq2_1.m3u8?123
-#EXTINF:-1 ,CCTV专区3
+#EXTINF:-1 group-title="未分类",CCTV专区3
 http://cbnlive.cbchot.com/live/yszq3_1.m3u8?123
-#EXTINF:-1 ,中国交通 HD
+#EXTINF:-1 group-title="未分类",中国交通 HD
 http://cbnlive.cbchot.com/live/jiaotong_h_1.m3u8?123
-#EXTINF:-1 ,CHC高清电影
+#EXTINF:-1 group-title="未分类",CHC高清电影
 http://cbnlive.cbchot.com/live/yt_chc_h_1.m3u8?123
-#EXTINF:-1 ,CBN每日影院
+#EXTINF:-1 group-title="未分类",CBN每日影院
 http://cbnlive.cbchot.com/live/meiriyingyuan_h1_1.m3u8?123
-#EXTINF:-1 ,CBN幸福剧场
+#EXTINF:-1 group-title="未分类",CBN幸福剧场
 http://cbnlive.cbchot.com/live/xingfujuchang_h1_1.m3u8?123
-#EXTINF:-1 ,CBN幸福娱乐
+#EXTINF:-1 group-title="未分类",CBN幸福娱乐
 http://cbnlive.cbchot.com/live/xingfuyule_h1_1.m3u8?123
-#EXTINF:-1 ,CBN风尚生活
+#EXTINF:-1 group-title="未分类",CBN风尚生活
 http://cbnlive.cbchot.com/live/fengshangshenghuo_h1_1.m3u8?123
-#EXTINF:-1 ,中国广电情感影院
+#EXTINF:-1 group-title="未分类",中国广电情感影院
 http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-#EXTINF:-1 ,中国广电华语影院
+#EXTINF:-1 group-title="未分类",中国广电华语影院
 http://cbnlive.cbchot.com/live/qingganyingyuan_1.m3u8?123
-#EXTINF:-1 ,中国广电经典剧场
+#EXTINF:-1 group-title="未分类",中国广电经典剧场
 http://cbnlive.cbchot.com/live/jingdianjuchang_1.m3u8?123
-#EXTINF:-1 ,中国广电记录
+#EXTINF:-1 group-title="未分类",中国广电记录
 http://cbnlive.cbchot.com/live/jilupian_1.m3u8?123
-#EXTINF:-1 ,中国广电旅游
+#EXTINF:-1 group-title="未分类",中国广电旅游
 http://cbnlive.cbchot.com/live/lvyou_1.m3u8?123
-#EXTINF:-1 ,中国广电卡通
+#EXTINF:-1 group-title="未分类",中国广电卡通
 http://cbnlive.cbchot.com/live/shaoer_test_hd_1.m3u8?123
-#EXTINF:-1 ,中国广电嗨播
+#EXTINF:-1 group-title="未分类",中国广电嗨播
 http://cbnlive.cbchot.com/live/haibo_1.m3u8?123
-#EXTINF:-1 ,中国广电风尚运动
+#EXTINF:-1 group-title="未分类",中国广电风尚运动
 http://cbnlive.cbchot.com/live/fengshangyundong_1.m3u8?123
-#EXTINF:-1 ,冰雪体育
+#EXTINF:-1 group-title="未分类",冰雪体育
 http://cbnlive.cbchot.com/live/bingxue1_1.m3u8?123
-#EXTINF:-1 ,马拉松
+#EXTINF:-1 group-title="未分类",马拉松
 http://cbnlive.cbchot.com/live/malasong_1.m3u8?123
-#EXTINF:-1 ,每日健身
+#EXTINF:-1 group-title="未分类",每日健身
 http://cbnlive.cbchot.com/live/jianshen_1.m3u8?123
-#EXTINF:-1 ,北京卫视 HD
+#EXTINF:-1 group-title="未分类",北京卫视 HD
 http://cbnlive.cbchot.com/live/bjswsyth_1.m3u8?123
-#EXTINF:-1 ,北京新闻 HD
+#EXTINF:-1 group-title="未分类",北京新闻 HD
 http://cbnlive.cbchot.com/live/bjxwyth_1.m3u8?123
-#EXTINF:-1 ,北京影视 HD
+#EXTINF:-1 group-title="未分类",北京影视 HD
 http://cbnlive.cbchot.com/live/bjysyth_1.m3u8?123
-#EXTINF:-1 ,北京文艺 HD
+#EXTINF:-1 group-title="未分类",北京文艺 HD
 http://cbnlive.cbchot.com/live/bjwyyth_1.m3u8?123
-#EXTINF:-1 ,北京纪实 HD
+#EXTINF:-1 group-title="未分类",北京纪实 HD
 http://cbnlive.cbchot.com/live/byjsyt-h_1.m3u8?123
-#EXTINF:-1 ,北京体育 HD
+#EXTINF:-1 group-title="未分类",北京体育 HD
 http://cbnlive.cbchot.com/live/bjtyyth_1.m3u8?123
-#EXTINF:-1 ,北京大健康 HD
+#EXTINF:-1 group-title="未分类",北京大健康 HD
 http://cbnlive.cbchot.com/live/dajiankang_hd_1.m3u8?123
-#EXTINF:-1 ,北京科教
+#EXTINF:-1 group-title="未分类",北京科教
 http://cbnlive.cbchot.com/live/yt_beijingkejiao_1.m3u8?123
-#EXTINF:-1 ,北京青年
+#EXTINF:-1 group-title="未分类",北京青年
 http://cbnlive.cbchot.com/live/yt_beijingqingnian_m_1.m3u8?123
-#EXTINF:-1 ,北京生活
+#EXTINF:-1 group-title="未分类",北京生活
 http://cbnlive.cbchot.com/live/yt_beijingshenghuo_m_1.m3u8?123
-#EXTINF:-1 ,北京财经
+#EXTINF:-1 group-title="未分类",北京财经
 http://cbnlive.cbchot.com/live/yt_beijingcaijing_h_1.m3u8?123
-#EXTINF:-1 ,北京朝阳
+#EXTINF:-1 group-title="未分类",北京朝阳
 http://cbnlive.cbchot.com/live/ChaoYangYouXian_1.m3u8?123
-#EXTINF:-1 ,湖南卫视 HD
+#EXTINF:-1 group-title="未分类",湖南卫视 HD
 http://cbnlive.cbchot.com/live/hnws_1_1.m3u8?123
-#EXTINF:-1 ,浙江卫视 HD
+#EXTINF:-1 group-title="未分类",浙江卫视 HD
 http://cbnlive.cbchot.com/live/yt_zhejiangweishi_h_1.m3u8?123
-#EXTINF:-1 ,东方卫视 HD
+#EXTINF:-1 group-title="未分类",东方卫视 HD
 http://cbnlive.cbchot.com/live/yt_dongfangweihi_l_1.m3u8?123
-#EXTINF:-1 ,山东卫视 HD
+#EXTINF:-1 group-title="未分类",山东卫视 HD
 http://cbnlive.cbchot.com/live/yt_shandongweishi_h_1.m3u8?123
-#EXTINF:-1 ,天津卫视 HD
+#EXTINF:-1 group-title="未分类",天津卫视 HD
 http://cbnlive.cbchot.com/live/yt_tianjinweishi_h_1.m3u8?123
-#EXTINF:-1 ,广东卫视 HD
+#EXTINF:-1 group-title="未分类",广东卫视 HD
 http://cbnlive.cbchot.com/live/yt_guangdongweishi_h_1.m3u8?123
-#EXTINF:-1 ,重庆卫视 HD
+#EXTINF:-1 group-title="未分类",重庆卫视 HD
 http://cbnlive.cbchot.com/live/ty_chongqingweishi_h_1.m3u8?123
-#EXTINF:-1 ,四川卫视 HD
+#EXTINF:-1 group-title="未分类",四川卫视 HD
 http://cbnlive.cbchot.com/live/yt_sichuan_h_1.m3u8?123
-#EXTINF:-1 ,深圳卫视 HD
+#EXTINF:-1 group-title="未分类",深圳卫视 HD
 http://cbnlive.cbchot.com/live/yt_shenzhenweishi_h_1.m3u8?123
-#EXTINF:-1 ,江西卫视 HD
+#EXTINF:-1 group-title="未分类",江西卫视 HD
 http://cbnlive.cbchot.com/live/ty_jiangxiweishi_h_1.m3u8?123
-#EXTINF:-1 ,江苏卫视 HD
+#EXTINF:-1 group-title="未分类",江苏卫视 HD
 http://cbnlive.cbchot.com/live/yt_jiangsuweishi_h_1.m3u8?123
-#EXTINF:-1 ,湖北卫视 HD
+#EXTINF:-1 group-title="未分类",湖北卫视 HD
 http://cbnlive.cbchot.com/live/yt_hubei_h_1.m3u8?123
-#EXTINF:-1 ,安徽卫视 HD
+#EXTINF:-1 group-title="未分类",安徽卫视 HD
 http://cbnlive.cbchot.com/live/yt_anhui_h_1.m3u8?123
-#EXTINF:-1 ,河北卫视 HD
+#EXTINF:-1 group-title="未分类",河北卫视 HD
 http://cbnlive.cbchot.com/live/yt_henanweishi_h_1.m3u8?123
-#EXTINF:-1 ,东南卫视 HD
+#EXTINF:-1 group-title="未分类",东南卫视 HD
 http://cbnlive.cbchot.com/live/yt_dongnan_h_1.m3u8?123
-#EXTINF:-1 ,辽宁卫视 HD
+#EXTINF:-1 group-title="未分类",辽宁卫视 HD
 http://cbnlive.cbchot.com/live/ty_liaoningweishi_h_1.m3u8?123
-#EXTINF:-1 ,黑龙江卫视 HD
+#EXTINF:-1 group-title="未分类",黑龙江卫视 HD
 http://cbnlive.cbchot.com/live/yt_heilongjiangweishi_h_1.m3u8?123
-#EXTINF:-1 ,金鹰纪实 HD
+#EXTINF:-1 group-title="未分类",金鹰纪实 HD
 http://cbnlive.cbchot.com/live/yt_jinying_h_1.m3u8?123
-#EXTINF:-1 ,湖南经视 HD
+#EXTINF:-1 group-title="未分类",湖南经视 HD
 http://cbnlive.cbchot.com/live/HuNanFinanceHD_1.m3u8?123
-#EXTINF:-1 ,新视觉 HD
+#EXTINF:-1 group-title="未分类",新视觉 HD
 http://cbnlive.cbchot.com/live/XSJHD_1.m3u8?123
-#EXTINF:-1 ,幸福彩 HD
+#EXTINF:-1 group-title="未分类",幸福彩 HD
 http://cbnlive.cbchot.com/live/XingFuCaiHD_1.m3u8?123
-#EXTINF:-1 ,都市剧场 HD
+#EXTINF:-1 group-title="未分类",都市剧场 HD
 http://cbnlive.cbchot.com/live/DuShiJCHD_1.m3u8?123
-#EXTINF:-1 ,欢笑剧场 HD
+#EXTINF:-1 group-title="未分类",欢笑剧场 HD
 http://cbnlive.cbchot.com/live/ChannelMax_1.m3u8?123
-#EXTINF:-1 ,动漫秀场 HD
+#EXTINF:-1 group-title="未分类",动漫秀场 HD
 http://cbnlive.cbchot.com/live/DongManXCHD_1.m3u8?123
-#EXTINF:-1 ,上海纪实 HD
+#EXTINF:-1 group-title="未分类",上海纪实 HD
 http://cbnlive.cbchot.com/live/yt_shanghaishiji_h_1.m3u8?123
-#EXTINF:-1 ,上海新闻综合 HD
+#EXTINF:-1 group-title="未分类",上海新闻综合 HD
 http://cbnlive.cbchot.com/live/SHNewsHD_1.m3u8?123
-#EXTINF:-1 ,上海都市 HD
+#EXTINF:-1 group-title="未分类",上海都市 HD
 http://cbnlive.cbchot.com/live/DongFangYuLeHD_1.m3u8?123
-#EXTINF:-1 ,五星体育 HD
+#EXTINF:-1 group-title="未分类",五星体育 HD
 http://cbnlive.cbchot.com/live/SHSportHD_1.m3u8?123
-#EXTINF:-1 ,游戏风云 HD
+#EXTINF:-1 group-title="未分类",游戏风云 HD
 http://cbnlive.cbchot.com/live/YouXiFYHD_1.m3u8?123
-#EXTINF:-1 ,艺术人文
+#EXTINF:-1 group-title="未分类",艺术人文
 http://cbnlive.cbchot.com/live/SHYiShu_1.m3u8?123
-#EXTINF:-1 ,哈哈炫动
+#EXTINF:-1 group-title="未分类",哈哈炫动
 http://cbnlive.cbchot.com/live/TOONMAXTV_1.m3u8?123
-#EXTINF:-1 ,CCTV-1
+#EXTINF:-1 group-title="未分类",CCTV-1
 http://cbnlive.cbchot.com/live/yt_cctv1_l_1.m3u8?123
-#EXTINF:-1 ,CCTV-5+
+#EXTINF:-1 group-title="未分类",CCTV-5+
 http://cbnlive.cbchot.com/live/ty_cctv5)l_1.m3u8?123
-#EXTINF:-1 ,CCTV-9
+#EXTINF:-1 group-title="未分类",CCTV-9
 http://cbnlive.cbchot.com/live/yt_cctv9_l_1.m3u8?123
-#EXTINF:-1 ,CCTV-10
+#EXTINF:-1 group-title="未分类",CCTV-10
 http://cbnlive.cbchot.com/live/yt_cctv10_l_1.m3u8?123
-#EXTINF:-1 ,CCTV-12
+#EXTINF:-1 group-title="未分类",CCTV-12
 http://cbnlive.cbchot.com/live/yt_cctv12_l_1.m3u8?123
-#EXTINF:-1 ,CCTV-14
+#EXTINF:-1 group-title="未分类",CCTV-14
 http://cbnlive.cbchot.com/live/yt_cctv14_l_1.m3u8?123
-#EXTINF:-1 ,CCTV娱乐
+#EXTINF:-1 group-title="未分类",CCTV娱乐
 http://cbnlive.cbchot.com/live/cctv6e_h_1.m3u8?123
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 group-title="未分类",天津卫视
 http://cbnlive.cbchot.com/live/yt_tianjinweishi_l_1.m3u8?123
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 group-title="未分类",广东卫视
 http://cbnlive.cbchot.com/live/yt_guangdongweishi_l_1.m3u8?123
-#EXTINF:-1 ,安多卫视
+#EXTINF:-1 group-title="未分类",安多卫视
 http://cbnlive.cbchot.com/live/anduoweihsi_h_1.m3u8?123
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 group-title="未分类",河南卫视
 http://cbnlive.cbchot.com/live/henanweishi_l_1.m3u8?123
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 group-title="未分类",河南卫视
 http://cbnlive.cbchot.com/live/henanweishi_h_1.m3u8?123
-#EXTINF:-1 ,新闻速递
+#EXTINF:-1 group-title="未分类",新闻速递
 http://cbnlive.cbchot.com/live/xinwensuditest_1.m3u8?123
-#EXTINF:-1 ,西安新闻综合
+#EXTINF:-1 group-title="未分类",西安新闻综合
 http://cbnlive.cbchot.com/live/xian1_h_1.m3u8?123
-#EXTINF:-1 ,西安丝路频道
+#EXTINF:-1 group-title="未分类",西安丝路频道
 http://cbnlive.cbchot.com/live/xian5_h_1.m3u8?123
-#EXTINF:-1 ,长春综合频道
+#EXTINF:-1 group-title="未分类",长春综合频道
 http://cbnlive.cbchot.com/live/cczh_h_1.m3u8?123
-#EXTINF:-1 ,内蒙古少儿频道
+#EXTINF:-1 group-title="未分类",内蒙古少儿频道
 http://cbnlive.cbchot.com/live/neimengshaoer_h_1.m3u8?123
-#EXTINF:-1 ,内蒙古文体娱乐
-http://cbnlive.cbchot.com/live/neimengwenti_h_1.m3u8?123
