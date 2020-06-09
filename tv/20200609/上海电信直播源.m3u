@@ -1,96 +1,97 @@
-#EXTINF:-1,ÉÏº£ĞÂÎÅ×ÛºÏFHD
+#EXTM3U
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·æ–°é—»ç»¼åˆFHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=18&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£ĞÂÎÅ×ÛºÏHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·æ–°é—»ç»¼åˆHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=20&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·æ–°é—»ç»¼åˆ
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=19&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£ĞÂÎÅ×ÛºÏ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·æ–°é—»ç»¼åˆ
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=21&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½Ó°ÊÓFHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å½±è§†FHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=01&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½Ó°ÊÓHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å½±è§†HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=02&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½Ó°ÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å½±è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=03&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½Ó°ÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å½±è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=04&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¶¼ÊĞFHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·éƒ½å¸‚FHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=05&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¶¼ÊĞHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·éƒ½å¸‚HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=06&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¶¼ÊĞ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·éƒ½å¸‚
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=07&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¶¼ÊĞ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·éƒ½å¸‚
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=08&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¼ÍÊµÈËÎÄ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·çºªå®äººæ–‡
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=00&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½ÎÀÊÓFHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å«è§†FHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=22&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½ÎÀÊÓHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å«è§†HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=23&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½ÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=25&Provider_id=&Pcontent_id=
-#EXTINF:-1,¶«·½ÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸œæ–¹å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=24&Provider_id=&Pcontent_id=
-#EXTINF:-1,½­ËÕÎÀÊÓFHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",æ±Ÿè‹å«è§†FHD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=26&Provider_id=&Pcontent_id=
-#EXTINF:-1,½­ËÕÎÀÊÓHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",æ±Ÿè‹å«è§†HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=28&Provider_id=&Pcontent_id=
-#EXTINF:-1,½­ËÕÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",æ±Ÿè‹å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=29&Provider_id=&Pcontent_id=
-#EXTINF:-1,½­ËÕÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",æ±Ÿè‹å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=27&Provider_id=&Pcontent_id=
-#EXTINF:-1,¹ã¶«ÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",å¹¿ä¸œå«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=71&Provider_id=&Pcontent_id=
-#EXTINF:-1,ËÄ´¨ÎÀÊÓHD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",å››å·å«è§†HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=15&Provider_id=&Pcontent_id=
-#EXTINF:-1,ËÄ´¨ÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",å››å·å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=17&Provider_id=&Pcontent_id=
-#EXTINF:-1,ËÄ´¨ÎÀÊÓ
+#EXTINF:-1 group-title="æœªåˆ†ç±»",å››å·å«è§†
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=16&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=11&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1HD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=09&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1HD
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1HD
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=12&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV1
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV1
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV5
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=31&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV5
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=30&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV6
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV6
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=33&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV6
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV6
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=34&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV5
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=32&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV6
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV6
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=35&Provider_id=&Pcontent_id=
-#EXTINF:-1,CCTV8
+#EXTINF:-1 group-title="æœªåˆ†ç±»",CCTV8
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=36&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿ÎÒ»Äê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾ä¸€å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=38&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿Î¶şÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾äºŒå¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=40&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿ÎËÄÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾å››å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=42&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿ÎÎåÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾äº”å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=45&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿ÎÁùÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾å…­å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=47&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿ÎÆßÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾ä¸ƒå¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=43&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿Î°ËÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾å…«å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=46&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿Î¾ÅÄê¼¶
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾ä¹å¹´çº§
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=44&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿Î¸ßÒ»
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾é«˜ä¸€
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=48&Provider_id=&Pcontent_id=
-#EXTINF:-1,ÉÏº£¿Õ¿Î¸ßÈı
+#EXTINF:-1 group-title="æœªåˆ†ç±»",ä¸Šæµ·ç©ºè¯¾é«˜ä¸‰
 http://124.75.27.195:8114/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_ctype=lives&Fsv_chan_hls_se_idx=39&Provider_id=&Pcontent_id=
