@@ -1,3 +1,3 @@
-6月1,https://gitee.com/william533036/iptv-m3u-maker/raw/dev/tv.m3u8
-6月2,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/1.m3u8
+6月1,https://gitee.com/william533036/iptv-m3u-maker/raw/dev/tv.m3u
+6月2,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/1.m3u
 6月3,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/20200609/1160.m3u
