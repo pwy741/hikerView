@@ -21,4 +21,5 @@ DIYP直播源,https://gitee.com/shinegogo/diyp_tv_list/raw/master/tv.txt
 最新轮播频道,https://gitee.com/hustlyt/live_broadcast_source/raw/master/最新轮播频道.txt
 省市卫视2,https://gitee.com/hustlyt/live_broadcast_source/raw/master/省市卫视2.txt
 北京,https://gitee.com/wuhuidexinzui/zhiboziyuan/raw/master/beijing.txt
+6.17,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/%E6%B2%89%E9%BB%98%E6%94%B6%E9%9B%862.txt
 #
