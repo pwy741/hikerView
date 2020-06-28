@@ -1,5 +1,5 @@
 [{
-    "title": "[未完成]预告片•Re",
+    "title": "预告片•Re",
     "author": "Reborn",
     "version": 1,
     "updateText": "修复忘记删除setError导致二级规则报错的问题",
