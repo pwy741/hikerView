@@ -1,12 +1,12 @@
 # 总仓库更新日志
 
 ## 20200630
-1. 支持读取仓库中的自定义文件名，默认update.json
+1. 支持读取仓库中的自定义文件名，默认 update.json
 2. 例子的显示逻辑改为首次显示+每次版本更新后都显示
-3. 新增一键净化开关，自己去二级规则找hideAll开启
+3. 新增一键净化开关，自己去二级规则找 hideAll 开启
 
 ## 20200629
-1. 支持仓库通知，仓库JSON格式要改为 { notice:仓库通知, data:原本的规则数组 }
+1. 支持仓库通知，仓库JSON格式要改为 { notice: 仓库通知, data: 原本的规则数组 }
 2. 作者仓库列表移至小棉袄的码云的 [authorList.json(点击跳转到链接)](https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/authorList.json)，与总仓库 depotRule.json 同目录，以后更新作者仓库用这个，不需要再去更新总仓库的规则文件了，大佬们不需要再导出规则完整编码才可以配置总仓库了！
 3. 增加例子隐藏符号"[例子]"，通过 needHideEtc 变量控制。默认不隐藏，若需要隐藏请找到  needHideEtc 变量 并把值设为 true。
 4. 优化一些提示
