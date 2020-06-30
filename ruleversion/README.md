@@ -1,4 +1,4 @@
-# HikerRulesDepot
+# 仓库开发文档
 
 ## 介绍
 视界规则个人仓库，在总仓库分类中填入`Reborn@@Reborn_0@@HikerRulesDepot`即可访问仓库中的规则。
@@ -19,8 +19,18 @@
 > - V1 -> 总仓库分类
 > - V2 -> [https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/authorList.json](https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/authorList.json)
 
+
+**模式一（码云仓库模式）：** 
+
 ```shell
 {规则作者author}@@{码云仓库拥有者owner}@@{码云仓库名project}@@picUrl='{头像图片链接picUrl}'@@access_token='{个人访问令牌access_token}'@@remoteFilename='{自定义仓库文件名remoteFilename}'
+```
+
+**模式二（文件直链模式）：** 
+
+
+```shell
+{规则作者author}@@apiType='0'@@fullUrl='文件完整直链'@@picUrl='{头像图片链接picUrl}'
 ```
 
 其中：
@@ -28,6 +38,7 @@
 - @@picUrl='{头像图片链接picUrl}' 可选填入，**仅在总仓库 V2 版提供支持**，不填就随机头像， **不要忘记单引号** 
 - @@access_token='{个人访问令牌access_token}' 可选填入， **不要忘记单引号**
 - @@remoteFilename='{自定义仓库文件名remoteFilename}'可选填入，不填则默认为update.json，**不要忘记单引号**
+- @@apiType='0'@@fullUrl='文件完整直链' 是连在一起的。当apiType为'0'时（注意，**'0'是有单引号的**），为文件完整直链模式，后面一定要跟@@fullUrl='文件完整直链'；当apiType不填或者='1'时，后面可不跟fullUrl，但是要填码云仓库配置。
 
 #### 举例分析
 
