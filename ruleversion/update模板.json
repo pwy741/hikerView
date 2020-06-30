@@ -1,15 +1,16 @@
 {
     "notice": "通知内容，可留空。",
+    "picUrl":"仓库上方显示的图片的链接",
     "data": [
 {
-    "title":"规则标题",
+    "title":"规则1标题",
     "author":"你的签名，必须写。",
     "version":1,
     "updateText":"更新日志",
     "tips":"规则说明，可留空。",
     "rule":"rule://分享规则完整编码的代码"
 },{
-    "title":"规则标题",
+    "title":"规则2标题",
     "author":"你的签名，必须写。",
     "version":1,
     "updateText":"更新日志",
