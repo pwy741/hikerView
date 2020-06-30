@@ -36,9 +36,11 @@
 其中：
 - picUrl 、access_token、remoteFilename 不分先后顺序
 - @@picUrl='{头像图片链接picUrl}' 可选填入，**仅在总仓库 V2 版提供支持**，不填就随机头像， **不要忘记单引号** 
-- @@access_token='{个人访问令牌access_token}' 可选填入， **不要忘记单引号**
-- @@remoteFilename='{自定义仓库文件名remoteFilename}'可选填入，不填则默认为update.json，**不要忘记单引号**
-- @@apiType='0'@@fullUrl='文件完整直链' 是连在一起的。当apiType为'0'时（注意，**'0'是有单引号的**），为文件完整直链模式，后面一定要跟@@fullUrl='文件完整直链'；当apiType不填或者='1'时，后面可不跟fullUrl，但是要填码云仓库配置。
+- @@access_token='{个人访问令牌access_token}'  可选填入， **不要忘记单引号**
+- @@remoteFilename='{自定义仓库文件名remoteFilename}' 可选填入，不填则默认为 update.json，**不要忘记单引号**
+- @@apiType='0'@@fullUrl=' 文件完整直链' 是连在一起的。
+    1. 当 apiType 为 '0' 时（注意，**'0'是有单引号的**），为文件完整直链模式，后面一定要跟 @@fullUrl='文件完整直链'；
+    2. 当 apiType 不填或者 ='1' 时，后面可不跟 fullUrl，但是要填码云仓库配置。
 
 #### 举例分析
 
