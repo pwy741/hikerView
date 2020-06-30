@@ -5,6 +5,7 @@
 2. 仓库通知支持加载图片，兼容旧版规则，详细请看[开发文档](https://gitee.com/Reborn_0/HikerRulesDepot/blob/master/README.md#%E4%BB%93%E5%BA%93%E9%80%9A%E7%9F%A5%E6%A8%A1%E6%9D%BF)仓库通知模板
 3. 支持显示仓库中的规则数，可自行去开关隐藏
 4. 默认去掉二级的标题栏（“这里是xxx的小仓库”）
+5. 仓库通知所有属性支持自定义，包括标题、图片、描述，详细请看[开发文档](https://gitee.com/Reborn_0/HikerRulesDepot/blob/master/README.md#%E4%BB%93%E5%BA%93%E9%80%9A%E7%9F%A5%E6%A8%A1%E6%9D%BF)仓库通知模板。
 
 ## 202006300225(V16、V17)
 1. 支持读取仓库中的自定义文件名，默认 update.json
