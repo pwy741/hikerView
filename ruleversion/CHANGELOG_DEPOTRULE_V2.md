@@ -1,12 +1,13 @@
 # 总仓库更新日志
 
-## 202006301412 (V18、V19、V20)
+## 202006301412 (V18、V19、V20、V21、V22)
 1. 新功能：支持忽略本次更新，支持本地+云端加载忽略列表（云端模板请看[开发文档](https://gitee.com/Reborn_0/HikerRulesDepot/blob/master/README.md#%E5%BF%BD%E7%95%A5%E6%9B%B4%E6%96%B0%E4%BA%91%E7%AB%AF%E6%A8%A1%E6%9D%BF)），并提供开关一键关闭忽略更新功能。请自行去二级列表配置，推荐使用云端（更新后不需要重新配置）
 2. 仓库通知支持加载图片，兼容旧版规则，详细请看[开发文档](https://gitee.com/Reborn_0/HikerRulesDepot/blob/master/README.md#%E4%BB%93%E5%BA%93%E9%80%9A%E7%9F%A5%E6%A8%A1%E6%9D%BF)仓库通知模板
 3. 支持显示仓库中的规则数，可自行去开关隐藏
 4. 默认去掉二级的标题栏（“这里是xxx的小仓库”）
 5. 仓库通知所有属性支持自定义，包括标题、图片、描述，详细请看[开发文档](https://gitee.com/Reborn_0/HikerRulesDepot/blob/master/README.md#%E4%BB%93%E5%BA%93%E9%80%9A%E7%9F%A5%E6%A8%A1%E6%9D%BF)仓库通知模板。
 6. 修复点击已导入规则无法跳转的问题
+7. 仓库状态缓存文件根据仓库名自动计算文件名
 
 ## 202006300225(V16、V17)
 1. 支持读取仓库中的自定义文件名，默认 update.json
