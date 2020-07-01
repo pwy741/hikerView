@@ -4,6 +4,7 @@
 1. ‘‘新功能’’： 支持规则映射功能（即替换规则名去跟仓库规则对比），可云端配置，自己在规则中填链接，云端模板请看[开发文档](https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/README.md#%E8%A7%84%E5%88%99%E6%98%A0%E5%B0%84%E4%BA%91%E7%AB%AF%E6%A8%A1%E6%9D%BF)。
 2. ‘‘优化’’:规则映射功能支持正则批量匹配映射，云端模板请看[开发文档](https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/README.md#%E8%A7%84%E5%88%99%E6%98%A0%E5%B0%84%E4%BA%91%E7%AB%AF%E6%A8%A1%E6%9D%BF)
 3. ‘‘修复’’:规则映射多个正则匹配无法成功匹配的问题
+4. ‘‘优化’’:所有开关都移到最前面的settings对象啦！（方便大佬们自己定义开关）
 
 ## 202007010200 (V25)
 1. ‘‘优化’’: 优化忽略本次更新功能，对忽略更新的规则加入归并排序（对不需要更新却又设置了忽略更新的规则不排序）。
