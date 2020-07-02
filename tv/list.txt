@@ -3,5 +3,4 @@
 6月2,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/20200609/1-1160channels.m3u
 6月3,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/20200609/11-福建移动.m3u
 6月4,https://gitee.com/qiusunshine233/hikerView/raw/master/tv/20200609/2-北京移动.m3u
-6月5,https://gitee.com/wudongdefeng/daima/raw/master/%E5%9B%BD%E5%86%85%E5%9C%B0%E6%96%B9%E5%8F%B0202005.M3U
 #
