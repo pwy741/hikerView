@@ -110,7 +110,6 @@ cc.kdmmm.cn
 image.kdmmm.cn
 ls.magictreehouse.cn
 t.quandangdang.net
-xn--*:
 p.gshtrl.top
 js.iewad.net
 mv.buerya.cn
