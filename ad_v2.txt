@@ -144,6 +144,7 @@ sj.shixincai.com
 thumbnail.dataoke.com
 public.ffquan.cn
 apimall.dataoke.com
+xn--*:
 www.tldm.net/js/ads/long_title1.js
 www.tldm.net/js/ads/top96090.js
 www.tldm.net/js/ads/top3_96090.js
