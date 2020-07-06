@@ -588,7 +588,7 @@ if (getUrl().indexOf("rule://") != -1) {
 
             if (updateList.length != 0) {
                 d.push({
-                    title: "<b>[自动生成]本页一键更新</b>",
+                    title: "<b>[自动生成]本页一键更新</b>‘‘’’",
                     url: generateHomeRulesUrl(updateList, updateListFile),
                     col_type: "text_1",
                     desc: "更新‘‘不影响原分组’’，此项由总仓库自动生成‘‘(实验性功能)’’\n\n注: 仅支持导入首页规则，其他请自行导入！"
