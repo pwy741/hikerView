@@ -599,7 +599,7 @@ if (getUrl().indexOf("rule://") != -1) {
                 d.push({
                     title: "““[自动生成]本页一键导入””",
                     url: generateHomeRulesUrl(importList, importListFile),
-                    col_type: "text_1",
+                    col_type: "pic_1",
                     desc: "此项由总仓库自动生成‘‘(实验性功能)’’\n\n注: 仅支持导入首页规则，其他请自行导入！"
                 });
             }
