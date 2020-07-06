@@ -103,7 +103,7 @@ if (depotStatus.showTips != false) {
 
     // 为所有分类添加总仓库项
     // 更新程序 updateMode 0->自动更新模式 1->手动更新模式
-    var updateMode = 0;
+    var updateMode = 1;
     try {
         var remoteDepotRule = {};
         eval("remoteDepotRule=" + fetch(settings.remoteDepotRuleUrl, {}));
