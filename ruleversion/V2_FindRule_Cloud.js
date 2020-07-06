@@ -1,3 +1,6 @@
+// 更新程序模式 0->自动更新模式 1->手动更新模式
+var updateMode = 0;
+
 function writeObjectToFile(fileUrl, object) {
     writeFile(fileUrl, JSON.stringify(object));
 }
@@ -102,14 +105,13 @@ if (depotStatus.showTips != false) {
     };
 
     // 为所有分类添加总仓库项
-    // 更新程序 updateMode 0->自动更新模式 1->手动更新模式
-    var updateMode = 1;
     try {
         var remoteDepotRule = {};
         eval("remoteDepotRule=" + fetch(settings.remoteDepotRuleUrl, {}));
         //setError(JSON.stringify(remoteDepotRule));
         if (updateMode == 0) {
             remoteDepotRule.oldVersion = depotStatus.version;
+            mRule.version = remoteDepotRule.version;
         } else if (updateMode == 1) {
             var localDepotRule = JSON.parse(getRule());
             remoteDepotRule.oldVersion = localDepotRule.version;
