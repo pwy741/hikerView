@@ -586,6 +586,17 @@ if (getUrl().indexOf("rule://") != -1) {
                 }
             }
 
+            if (settings.noRulesNum != true && settings.hideAll != true){}
+            d.push({
+                title: "<b>该仓库共有 ‘‘" + remoteRules.length + "’’ 条规则</b>" +
+                    " ("
+                    + "更新:‘‘" + depotRulesStatus.updateNum
+                    + "’’  未导入:‘‘" + depotRulesStatus.noImportNum
+                    + "’’  忽略:‘‘" + depotRulesStatus.ignoreNum
+                    + "’’)",
+                col_type: "text_1",
+            });
+
             if (updateList.length != 0) {
                 d.push({
                     title: "‘‘’’<b>[自动生成]点击一键更新本页</b>",
@@ -603,17 +614,6 @@ if (getUrl().indexOf("rule://") != -1) {
                     desc: "此项由总仓库自动生成‘‘(实验性功能)’’\n\n注: 仅支持导入首页规则，其他请自行导入！"
                 });
             }
-
-            if (settings.noRulesNum != true && settings.hideAll != true){}
-            d.push({
-                title: "<b>该仓库共有 ‘‘" + remoteRules.length + "’’ 条规则</b>" +
-                    " ("
-                    + "更新:‘‘" + depotRulesStatus.updateNum
-                    + "’’  未导入:‘‘" + depotRulesStatus.noImportNum
-                    + "’’  忽略:‘‘" + depotRulesStatus.ignoreNum
-                    + "’’)",
-                col_type: "text_1",
-            });
 
             while (showRuleList.length) d.push(showRuleList.shift())
 
