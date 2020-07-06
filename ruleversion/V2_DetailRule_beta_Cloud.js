@@ -345,14 +345,14 @@ if (getUrl().indexOf("rule://") != -1) {
                 }
                 remoteRules = remoteRules.data;
             }
-            /*if (settings.noWarning != true && settings.hideAll != true) {
+            if (settings.noWarning != true && settings.hideAll != true) {
                 d.push({
                     title: "注意事项",
                     desc: waringText,
                     col_type: "pic_1",
                     url: "hiker://home@总仓库"
                 });
-            }*/
+            }
         } catch (e) {
         }
         //setError(remoteRules.length);
