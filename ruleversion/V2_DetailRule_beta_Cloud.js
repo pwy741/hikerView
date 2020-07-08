@@ -584,8 +584,6 @@ if (getUrl().indexOf("rule://") != -1) {
                     }
                     importList.push(ruleInRemote);
                 }
-
-setError(JSON.stringify(ruleInRemote));
             }
 
             if (updateList.length != 0) {
