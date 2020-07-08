@@ -6,7 +6,7 @@
 3. ‘‘新功能’’：二级添加一键更新、一键导入，一键更新支持不改变分组更新
 4. ‘‘优化’’: 迁移至云规则版，并修改更新程序
 5. 添加测试通道
-6. pic_url 支持使用 js 执行模式，如：需要 new Date().getTime();
+6. ‘‘优化’’: 仓库通知 pic_url 支持使用 js 执行模式，如：需要添加 new Date().getTime();
 
 ## 202007011230 (V26、V27、V28、V29、V30、V31、V32、V33)
 1. ‘‘新功能’’： 支持规则映射功能（即替换规则名去跟仓库规则对比），可云端配置，自己在规则中填链接，云端模板请看[开发文档](https://gitee.com/qiusunshine233/hikerView/blob/master/ruleversion/README.md#%E8%A7%84%E5%88%99%E6%98%A0%E5%B0%84%E4%BA%91%E7%AB%AF%E6%A8%A1%E6%9D%BF)。
