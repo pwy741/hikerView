@@ -584,8 +584,10 @@ if (getUrl().indexOf("rule://") != -1) {
                     }
                     importList.push(ruleInRemote);
                 }
+
+setError(JSON.stringify(ruleInRemote));
             }
-setError(JSON.stringify(updateList));
+
             if (updateList.length != 0) {
                 d.push({
                     title: "‘‘’’<b>[自动生成]点击一键更新本页</b>",
