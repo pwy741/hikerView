@@ -241,6 +241,7 @@ js.njcn888.com
 xl.3y6c.cn
 vip.jiangrenzhiguo.com
 s.u7u9.com
+myqqjd.com/wp-content/plugins/*.js
 */ad.
 */ad_
 */ad-
