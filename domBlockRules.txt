@@ -6,3 +6,4 @@ www.duboku.net::.myui-panel-bg,1
 m.fenggoudy.com::body&&img
 ddrk.me::#post-8018&&.post-content&&.entry&&a&&img@@body&&.afc_popup,0@@#obay_hf&&a,0
 m.comicat.org::body&&.data_top,0&&.gg-full-width,0&&.gg_canvas,0@@#splash_screen&&.gg_canvas,0&&.gg_url,0&&.gg_full_screen,0
+myqqjd.com::#advert_widget
