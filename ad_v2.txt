@@ -242,6 +242,8 @@ xl.3y6c.cn
 vip.jiangrenzhiguo.com
 s.u7u9.com
 myqqjd.com/wp-content/plugins/*.js
+xg.zhlzdhr.cn
+gz.gznwn.com
 */ad.
 */ad_
 */ad-
